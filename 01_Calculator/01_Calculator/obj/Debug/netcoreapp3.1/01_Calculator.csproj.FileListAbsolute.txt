@@ -1,0 +1,13 @@
+C:\Users\daniel\Source\Repos\VintherWolf\SWT\01_Calculator\01_Calculator\obj\Debug\netcoreapp3.1\01_Calculator.csprojAssemblyReference.cache
+C:\Users\daniel\Source\Repos\VintherWolf\SWT\01_Calculator\01_Calculator\obj\Debug\netcoreapp3.1\01_Calculator.AssemblyInfoInputs.cache
+C:\Users\daniel\Source\Repos\VintherWolf\SWT\01_Calculator\01_Calculator\obj\Debug\netcoreapp3.1\01_Calculator.AssemblyInfo.cs
+C:\Users\daniel\Source\Repos\VintherWolf\SWT\01_Calculator\01_Calculator\obj\Debug\netcoreapp3.1\01_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Source\Repos\VintherWolf\SWT\01_Calculator\01_Calculator\bin\Debug\netcoreapp3.1\01_Calculator.exe
+C:\Users\daniel\Source\Repos\VintherWolf\SWT\01_Calculator\01_Calculator\bin\Debug\netcoreapp3.1\01_Calculator.deps.json
+C:\Users\daniel\Source\Repos\VintherWolf\SWT\01_Calculator\01_Calculator\bin\Debug\netcoreapp3.1\01_Calculator.runtimeconfig.json
+C:\Users\daniel\Source\Repos\VintherWolf\SWT\01_Calculator\01_Calculator\bin\Debug\netcoreapp3.1\01_Calculator.runtimeconfig.dev.json
+C:\Users\daniel\Source\Repos\VintherWolf\SWT\01_Calculator\01_Calculator\bin\Debug\netcoreapp3.1\01_Calculator.dll
+C:\Users\daniel\Source\Repos\VintherWolf\SWT\01_Calculator\01_Calculator\bin\Debug\netcoreapp3.1\01_Calculator.pdb
+C:\Users\daniel\Source\Repos\VintherWolf\SWT\01_Calculator\01_Calculator\obj\Debug\netcoreapp3.1\01_Calculator.dll
+C:\Users\daniel\Source\Repos\VintherWolf\SWT\01_Calculator\01_Calculator\obj\Debug\netcoreapp3.1\01_Calculator.pdb
+C:\Users\daniel\Source\Repos\VintherWolf\SWT\01_Calculator\01_Calculator\obj\Debug\netcoreapp3.1\01_Calculator.genruntimeconfig.cache
