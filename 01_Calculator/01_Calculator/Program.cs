@@ -2,8 +2,8 @@
  *  File: 01_Calculator.cs
  *  Author: Daniel K. Vinther Wolf
  *  Created: 2020-08-23
- *  Last Modified: 
- *  Version: 0.1.0
+ *  Last Modified: 2020-09-02
+ *  Version: 0.2.0
  */
 
 using System;
@@ -20,6 +20,7 @@ namespace _01_Calculator
         /// Writes to std out
         /// </returns>
         /// <value> No value is created </value>
+        
         static void Main(string[] args)
         {
             Console.WriteLine("Calculator for SWT!\n");
@@ -28,6 +29,7 @@ namespace _01_Calculator
             var a = 3.0;
             var b = 1.2;
             var result = 0.0;
+
             result = calc.Add(a, b);
             Console.WriteLine("{1} + {2} = {0}", result, a, b);
 
@@ -77,7 +79,4 @@ namespace _01_Calculator
         }
 
     }
-
-
-
 }
