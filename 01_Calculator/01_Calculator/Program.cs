@@ -26,6 +26,7 @@ namespace _01_Calculator
             Console.WriteLine("Calculator for SWT!\n");
             Calculator calc = new Calculator();
 
+            /*
             var a = 3.0;
             var b = 1.2;
             var result = 0.0;
@@ -41,6 +42,7 @@ namespace _01_Calculator
 
             result = calc.Power(a);
             Console.WriteLine("exp ^ {1} = {0}", result, a);
+            */
         }
     }
 

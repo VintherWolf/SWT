@@ -15,6 +15,7 @@ namespace CashRegister.Test.Unit
         [SetUp]
         public void Setup()
         {
+            // Common Arrangements:
             uut = new Register();
         }
 
@@ -27,7 +28,7 @@ namespace CashRegister.Test.Unit
         [Test]
         public void AddItem_OneItem_NoOfItemsReturns1()
         {
-            // Arrange in Setup
+            // Special Arrangements:
 
             // Act
             uut.AddItem(12.55);

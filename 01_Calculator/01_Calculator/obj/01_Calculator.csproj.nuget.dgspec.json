@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daniel\\Source\\Repos\\VintherWolf\\SWT\\01_Calculator\\01_Calculator\\01_Calculator.csproj": {}
+    "C:\\Users\\daniel\\source\\repos\\VintherWolf\\SWT\\01_Calculator\\01_Calculator\\01_Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daniel\\Source\\Repos\\VintherWolf\\SWT\\01_Calculator\\01_Calculator\\01_Calculator.csproj": {
+    "C:\\Users\\daniel\\source\\repos\\VintherWolf\\SWT\\01_Calculator\\01_Calculator\\01_Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daniel\\Source\\Repos\\VintherWolf\\SWT\\01_Calculator\\01_Calculator\\01_Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\daniel\\source\\repos\\VintherWolf\\SWT\\01_Calculator\\01_Calculator\\01_Calculator.csproj",
         "projectName": "01_Calculator",
-        "projectPath": "C:\\Users\\daniel\\Source\\Repos\\VintherWolf\\SWT\\01_Calculator\\01_Calculator\\01_Calculator.csproj",
+        "projectPath": "C:\\Users\\daniel\\source\\repos\\VintherWolf\\SWT\\01_Calculator\\01_Calculator\\01_Calculator.csproj",
         "packagesPath": "C:\\Users\\daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daniel\\Source\\Repos\\VintherWolf\\SWT\\01_Calculator\\01_Calculator\\obj\\",
+        "outputPath": "C:\\Users\\daniel\\source\\repos\\VintherWolf\\SWT\\01_Calculator\\01_Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
